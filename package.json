@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "first hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/animob/hexlet-js.git"
+  },
+  "author": "Anna Dubik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animob/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/animob/hexlet-js#readme"
+}
