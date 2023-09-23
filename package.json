@@ -6,8 +6,8 @@
   "scripts": {
     "test": "build"
   },
+  "type": "module",
   "repository": {
-    "type": "module",
     "url": "git+https://github.com/animob/hexlet-js.git"
   },
   "author": "Anna Dubik",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/animob/hexlet-js/issues"
   },
-  "homepage": "https://github.com/animob/hexlet-js#readme"
+  "homepage": "https://github.com/animob/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
