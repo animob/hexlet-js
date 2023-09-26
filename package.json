@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/animob/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "sloc": "^0.3.0"
   }
 }
